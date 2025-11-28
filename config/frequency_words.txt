@@ -6,15 +6,15 @@ bytedance
 特斯拉
 马斯克
 
-+谷歌
-+google
-+gemini
+谷歌
+google
+gemini
 deepmind
 
 chatgpt
 openai
 sora
-+sora2
+sora2
 
 claude
 Anthropic
@@ -33,5 +33,5 @@ ai
 
 新质生产力
 
-+新闻联播
-+央视
+新闻联播
+央视
